@@ -268,4 +268,9 @@
 </div>
 
 </div>
-<p>note from creator:\n im sorry, all ts of a essay is made from chat gpt lol</p>
+
+
+
+
+
+note from creator: im sorry, all ts of a essay is made from chat gpt lol<
